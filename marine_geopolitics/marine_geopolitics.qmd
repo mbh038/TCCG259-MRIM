@@ -1,28 +1,16 @@
----
-title: "Marine Geopolitics"
-author: "Michael Hunt"
-date: "01/16/2026"
-format: revealjs
-editor: visual
-execute: 
-  echo: false
----
+# Marine Geopolitics
 
 ## Tensions over Greenland
 
-:::: {.columns}
-
+::::: columns
 ::: {.column width="50%"}
-
 ![Nuuk, Greenland](nuuk_greenland.jpg)
 :::
 
 ::: {.column width="50%"}
-
 ![Russian nuclear icebreaker](ice_breaker.jpg)
 :::
-
-::::
+:::::
 
 ## Reduction in Arctic Ice
 
@@ -31,7 +19,6 @@ execute:
 ## Potential Arctic Shipping Routes
 
 ![Potential Arctic shipping routes](Arctic_Routes.jpg)
-
 
 ## Reduced travel times
 
@@ -62,21 +49,17 @@ bering_passages |>
 
 ## Rising tensions around the Arctic
 
-:::: {.columns}
-
+::::: columns
 ::: {.column width="60%"}
-
 Several Arctic nations have claims in the Arctic: Canada, Denmark, Norway, Russia and the US.
 
 The UN’s Commission on the Limits of the Continental Shelf (CLCS) makes recommendations to coastal states on these claims.
 :::
 
 ::: {.column width="40%"}
-
 ![Continental shelf claims in the Arctic Ocean](Arctic_claims.jpg)
 :::
-
-::::
+:::::
 
 ## Rare Earth Reserves
 
@@ -85,5 +68,3 @@ The UN’s Commission on the Limits of the Continental Shelf (CLCS) makes recomm
 ## Profusion of military bases
 
 ![Forward military bases around the Arctic](Arctic_military_bases.jpg)
-     
-                                 

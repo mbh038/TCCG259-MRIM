@@ -13,6 +13,8 @@ book:
     - marine_impacts_of_climate_change/climate_change_impacts.qmd
     - marine_plastics/marine_plastics.qmd
     - marine_artificial_light/ALAN.qmd
+    - marine_geopolitics/marine_geopolitics.qmd
+    - biomimetics/biomimetics.qmd
     - references.qmd
 
 bibliography: references.bib

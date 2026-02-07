@@ -1,13 +1,4 @@
----
-title: "Inspiration from deep-sea species"
-format: html
-editor: visual
-execute: 
-  echo: false
-  warning: false
-  message: false
-bibliography: references.bib
----
+# Inspiration from deep-sea species
 
 ```{r}
 library(tidyverse)
