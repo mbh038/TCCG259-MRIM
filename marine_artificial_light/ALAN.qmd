@@ -8,7 +8,7 @@ Gaston *et al.* [-@gaston2021] asserts that the biological impacts of ALAN in ma
 
 ## Effects on timing of coral spawning 
 
-See Ayalon *et al*. [-@ayalon2021]
+Corals are known to use broadcast spawning as part of the reproductive cycle. It is important therefore that the release of male and female spawn is synchronised. Some coral species achieve this synchrony by using cycles of light levels determined by phases of the moon. Ayalon *et al*. [-@ayalon2021] show that artifical light at night can drown out this natural signal, causing asynchronous release of spawn and thus loss of reproductive success. 
 
 ## Invertebrate settlement 
 
@@ -24,7 +24,21 @@ See [@thums2016, @vandersteen2020]
 
 See also Silva et al. 2017; Hu et al. 2018; Vandersteen et al. 2020)
 
-## Seabird grounding and mortality (Wiese et al. 2001; Le Corre et al. 2002; Jones and Francis 2003; Rodríguez et al. 2014; Syposz et al. 2018).
+## Seabird grounding and mortality 
+
+(Wiese et al. 2001; Le Corre et al. 2002; Jones and Francis 2003; Rodríguez et al. 2014; Syposz et al. 2018).
 
 ## Impacts on diel vertical migration of zooplankton could be especially profound, given its importance for global carbon cycling.
+
+Diel vertical migration is the daily vertical migration up and down the water by zooplankton and other species in both marine and freshwater lake environments. During the night the zooplankton migrate towards the surface in search of the phytoplankton on which they feed. As day comes the sunlight shining from above means that they become visible to predators such as fish who mainly hunt by visual signals. To defend against this they migrate downwards to deeper, darker  waters, prhaps some 10s of metres further down.
+
+This daily migration plays an important part in the functioning of the so-alled **biological carbon pump** whereby phytoplankton in the surface layers of the ocean photosynthesise and threby capture disovled carbon that has been absorbed from the atmosphoere. The zooplankton prey on these phytoplankton and in maigrating downwards they later excrete this carbon as faeces which, being more dense than seawater, sinks. Thus, this diel migration plays a key role in transferring atmospheric carbon to the ocean bottom where it remains fixed for century long timescales. 
+
+Due to the large number of zooplankton such as krill in the southerh ocean this migration is in fact the **greatest on earth** in terms of total biomass migrating, bigger even than the large mammal migrations on the African savannahs.
+
+A concern is that powerful artificial lights at night, shining down from above, may confuse the zooplankton and disrupt this daily migration pattern. 
+
+
+
+
 
