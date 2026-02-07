@@ -1,0 +1,105 @@
+---
+title: "Marine Social Enterprise Opportunities"
+author: "Michael Hunt"
+date: "10 Mar, 2025"
+date-format: "DD MMM, YYYY"
+lang: en
+format: html
+editor: visual
+bibliography: references.bib
+---
+
+Social enterprises operating in the marine environment focus on addressing environmental, social, and economic challenges related to oceans, seas, and coastal areas. These organizations aim to create positive impacts while ensuring sustainability and community well-being. Below are some key areas where social enterprises are active in the marine environment, along with examples of their initiatives:
+
+------------------------------------------------------------------------
+
+### 1. Marine Conservation and Biodiversity Protection
+
+-   **Objective:** Protect marine ecosystems, restore biodiversity, and combat overfishing, pollution, and habitat destruction.
+-   **Examples:**
+    -   **Coral Reef Restoration:** Transplant resilient corals to restore dying reefs [*Coral Vita*](https://www.coralvita.co) grow and .
+    -   **Marine Protected Areas (MPAs):** Work with local communities and governments to establish and manage MPAs. eg [Helford Marine Conservation Group](https://helfordmarineconservation.co.uk), [Cornwall Seal Group Research Trust](http://www.cornwallsealgroup.co.uk/our-team/)
+    -   **Plastic Pollution Solutions:** develop technologies to remove plastic waste from oceans eg [*The Ocean Cleanup*](https://theoceancleanup.com/#:~:text=The%20Ocean%20Cleanup%20is%20a,t%20go%20away%20by%20itself.) .
+    -   **Seagrass restoration** An example of this in the UK is [Project Seagrass](https://www.projectseagrass.org/about/)
+
+------------------------------------------------------------------------
+
+### 2. Sustainable Fisheries and Aquaculture
+
+-   **Objective:** Promote sustainable fishing practices and aquaculture to ensure food security and livelihoods for coastal communities.
+-   **Examples:**
+    -   **Fair Trade Seafood:** Certify fisheries that adhere to sustainable and ethical practices, like the [Marine Stewarship Council](https://www.msc.org/uk) .
+    -   **Community-Based Fisheries:** Empower local fishers to adopt sustainable methods and improve market access. See, for example, this list from [Foodtank](https://foodtank.com/news/2017/10/sustainable-fisheries-list/)
+    -   **Alternative Aquaculture:** Promote seaweed farming or shellfish cultivation as eco-friendly alternatives, as do [Algolesko](https://www.cornwallwildlifetrust.org.uk/your-shore-network-groups) in Brittany
+
+------------------------------------------------------------------------
+
+### 3. Blue Economy and Circular Economy Initiatives
+
+-   **Objective:** Develop economic activities that harness marine resources sustainably while minimizing waste and environmental impact.
+-   **Examples:**
+    -   **Seaweed-Based Products:** Create biodegradable packaging, fertilizers, or food products from seaweed. For example [Algolesko](https://www.cornwallwildlifetrust.org.uk/your-shore-network-groups) in Brittany, France
+    -   **Upcycling Marine Waste:** Turn discarded fishing nets into textiles or other products.
+    -   **Renewable Energy:** Promote marine renewable energy projects. An outstanding example of this is the island of [Samsø](https://unfccc.int/climate-action/un-global-climate-action-awards/climate-leaders/samso) in Denmark, in which community action led to the island being powered 100% by renewable energy, including an offshore wind farm.
+
+------------------------------------------------------------------------
+
+### 4. Community Empowerment and Livelihood Development
+
+-   **Objective:** Improve the livelihoods of coastal communities through education, training, and economic opportunities.
+-   **Examples:**
+    -   **Eco-Tourism:** Develop sustainable tourism initiatives, such as whale watching or snorkeling tours, that could benefit local communities (but with potential impacts on the local environment unless carefully managed).
+    -   **Women-Led Initiatives:** Empower women in coastal areas to engage in sustainable livelihoods like seaweed farming, handicrafts or habitat restoration. Examples are the [Mangrove Mothers](https://www.nature.org/en-us/magazine/magazine-articles/kenya-mangrove-mothers/) initiative in Kenya, or this women led mangrove restoration initiative in the Sunderban region of Bangladesh, supported by the NGO [Bangladesh Environment and Development Society (BEDS)](http://www.bedsbd.org/). In both these examples community engagement is achieved giving people who were unemployed work geared towards restoration of mangroves.
+    -   **Education and Awareness:** Run programs to educate communities about marine conservation and sustainable practices. This could include setting up local marine volunteer groups, such as the [Your Shore Network](https://www.cornwallwildlifetrust.org.uk/your-shore-network-groups)
+
+------------------------------------------------------------------------
+
+### 5. Climate Change Adaptation and Mitigation
+
+-   **Objective:** Address the impacts of climate change on marine ecosystems and coastal communities.
+-   **Examples:**
+    -   **Mangrove Restoration:** Plant mangroves to protect coastlines from erosion and sequester carbon. Many projects aim to do this around the world, such as [Mangrove Action Project](https://mangroveactionproject.org) some only in specific localities, such as [Mangrove for Life](https://www.oneearth.org/mangrove-for-life-restoring-nigerias-mangrove-ecosystem/) in Nigeria
+    -   **Climate-Resilient Livelihoods:** Train communities in climate-adaptive practices, such as salt-tolerant agriculture. See for example [@iqbal2024]
+    -   **Blue Carbon Projects:** Develop initiatives to monetize carbon sequestration by marine ecosystems. See for example the [Blue Carbon Initiative](https://www.thebluecarboninitiative.org)
+
+------------------------------------------------------------------------
+
+### 6. Innovation and Technology for Marine Sustainability
+
+-   **Objective:** Leverage technology to solve marine environmental challenges.
+-   **Examples:**
+    -   **Ocean Monitoring:** Drones, satellites, and AI can be used to track illegal fishing or monitor marine health, or detect (say) sharks.
+    -   **Biodegradable Fishing Gear:** Develop biodegradable alternatives to traditional fishing gear.
+    -   **Marine Biotechnology:** Use marine organisms as inspiration for medical, industrial, or environmental applications. This is the field of biomimetics, many examples of which can be found in this paper: [@blasiak2022]
+
+------------------------------------------------------------------------
+
+### 7. Policy Advocacy and Collaboration
+
+-   **Objective:** Influence policies and foster partnerships to protect marine environments.
+-   **Examples:**
+    -   **Advocacy for Ocean Rights:** Campaign for legal recognition of ocean rights and ecosystem protection. eg [Surfers Against Sewage](https://www.sas.org.uk)
+    -   **Public-Private Partnerships:** Collaborate with governments, NGOs, and businesses to implement marine conservation projects.
+    -   **Global Initiatives:** Participate in international efforts like the [UN Sustainable Development Goal 14 (Life Below Water)](https://sdgs.un.org/goals/goal14)
+
+------------------------------------------------------------------------
+
+### Challenges Faced by Social Enterprises in the Marine Environment
+
+-   **Funding:** Limited access to capital for innovative or long-term projects.
+-   **Regulatory Barriers:** Complex regulations and lack of enforcement in marine areas.
+-   **Community Engagement:** Balancing conservation goals with the needs of local communities.
+-   **Scaleability:** Difficulty in scaling solutions to address global marine issues.
+
+------------------------------------------------------------------------
+
+### Opportunities for Growth
+
+-   **Impact Investment:** Increasing interest from impact investors in blue economy projects.
+-   **Technology Advancements:** Innovations in marine science and technology create new opportunities.
+-   **Collaborative Networks:** Growing partnerships between social enterprises, governments, and NGOs.
+-   **Consumer Awareness:** Rising demand for sustainable seafood and ocean-friendly products.
+
+------------------------------------------------------------------------
+
+Social enterprises in the marine environment can play a critical role in bridging the gap between conservation and sustainable development. By combining innovation, community engagement, and environmental stewardship, they contribute to the health of our oceans and the well-being of those who depend on them.

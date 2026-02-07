@@ -1,0 +1,89 @@
+---
+title: "Marine Geopolitics"
+author: "Michael Hunt"
+date: "01/16/2026"
+format: revealjs
+editor: visual
+execute: 
+  echo: false
+---
+
+## Tensions over Greenland
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![Nuuk, Greenland](nuuk_greenland.jpg)
+:::
+
+::: {.column width="50%"}
+
+![Russian nuclear icebreaker](ice_breaker.jpg)
+:::
+
+::::
+
+## Reduction in Arctic Ice
+
+![Reduction in arctic ice](Arctic_Ice.jpg)
+
+## Potential Arctic Shipping Routes
+
+![Potential Arctic shipping routes](Arctic_Routes.jpg)
+
+
+## Reduced travel times
+
+![Route taken by the Istanbul Bridge](Istanbul_bridge.jpg)
+
+## More ships through the Bering strait
+
+```{r, echo = FALSE}
+library(tidyverse)
+
+#| fig-caption: "All AIS-identified transits from 2010 through 2024 travelling through the Bering strait"
+years<-2010:2024
+AIS<-c(242, 239, 316, 344, 255, 452, 340, 360, 358, 477, 557, 555, 509, 681, 665)
+bering_passages <- data.frame(year = years, passages = AIS)
+
+bering_passages |>
+  ggplot(aes( x = year, y = passages)) +
+  geom_line(colour="blue") +
+  scale_x_continuous(breaks=seq(2010, 2024, 2)) +
+  labs(x= "",
+       y = "",
+       caption = "All AIS-identified transits from 2010 through 2024 travelling through the Bering strait") +
+  theme_classic() +
+  theme(axis.line.y = element_blank()) +
+  theme(panel.grid.major.y = element_line(color = "grey80",
+                                          size = 0.5))
+```
+
+## Rising tensions around the Arctic
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+Several Arctic nations have claims in the Arctic: Canada, Denmark, Norway, Russia and the US.
+
+The UN’s Commission on the Limits of the Continental Shelf (CLCS) makes recommendations to coastal states on these claims.
+:::
+
+::: {.column width="40%"}
+
+![Continental shelf claims in the Arctic Ocean](Arctic_claims.jpg)
+:::
+
+::::
+
+## Rare Earth Reserves
+
+![Estimated rare earth reserves in millions of tonnes](rare_earth_reserves.jpg)
+
+## Profusion of military bases
+
+![Forward military bases around the Arctic](Arctic_military_bases.jpg)
+     
+                                 

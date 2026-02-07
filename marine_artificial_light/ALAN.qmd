@@ -1,0 +1,21 @@
+# ALAN - Artificial Light at Night
+
+For good overviews on the ecological impact of artificial light at night in the marine environment, see Davies *et al*. [-@davies2014] and Marangoni *et al*. [-@marangoni2022].
+
+For a striking specific example of of the extent of the problem, see for example the report Bright Lights Dim Justice [-@environmentaljusticefoundation2025] by The Evironmental Justice Foundation on the concentration of hundreds of fishing, boats in the south Atlantic, most of them hunting short fin squid using a technique known as jigging in which very bright lights are shone directly down into the water to attract the squid.
+
+Gaston *et al.* [-@gaston2021] asserts that the biological impacts of ALAN in marine systems seem likely to be at least as diverse as those occurring terrestrially, with evidence already for:
+
+-   Effects on timing of coral spawning [@ayalon2021]
+
+-   invertebrate settlement [@davies2015]
+
+-   Behavior of pelagic organisms [@berge2020]
+
+-   Turtle nesting and orientation [@thums2016, @vandersteen2020] See also Silva et al. 2017; Hu et al. 2018; Vandersteen et al. 2020)
+
+-   seabird grounding and mortality (Wiese et al. 2001; Le Corre et al. 2002; Jones and Francis 2003; Rodríguez et al. 2014; Syposz et al. 2018).
+
+-   Impacts on diel vertical migration of zooplankton could be especially profound, given its importance for global carbon cycling.
+
+## References{.unnumbered}

@@ -1,0 +1,27 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "TCCG259 Marine Resources, Innovation and Management"
+  author: "Michael Hunt"
+  date: "1/29/2026"
+  license: "CC BY-SA"
+  page-footer: CC-BY-SA-4.0 (2026) Michael Hunt
+  chapters:
+    - index.qmd
+    - marine_impacts_of_climate_change/climate_change_impacts.qmd
+    - marine_plastics/marine_plastics.qmd
+    - marine_artificial_light/ALAN.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+
+editor: visual
+

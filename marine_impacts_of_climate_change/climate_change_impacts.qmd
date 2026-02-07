@@ -1,0 +1,77 @@
+---
+title: "Marine impacts of climate change"
+format:
+  revealjs:
+    include-in-header:
+      text: |
+        \usepackage{mhchem}   
+  pdf:
+    include-in-header:
+      text: |
+        \usepackage{mhchem}
+  html:
+    html-math-method:
+      method: mathjax
+      url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+    include-in-header:
+      text: |
+        <script>
+        MathJax = {
+          loader: {load: ['[tex]/mhchem']},
+          tex: {packages: {'[+]': ['mhchem']}}
+        };
+        </script>
+editor: visual
+bibliography: references.bib
+---
+
+## Overview
+
+In this presentation we will consider the impact of climate change on the marine environment. In particular, we will discuss
+
+-   Sea surface temperature rise
+-   Sea level rise
+-   Acidification
+-   Local changes in salinity
+-   Geopolitical issues
+-   Change in frequency and severity of extreme events
+
+## Ocean Acidification
+
+![Doney 2020](Doney%20et%20al%202020%20ocean%20CO2.png)
+
+At seawater pH levels (∼8), $\ce{CO2}$ added to seawater reacts with water to form bicarbonate $\ce{HCO3-}$ and hydrogen ions $\ce{H+}$:
+
+$$\ce{CO2 + H2O -> H2CO3- + H+}$$ The release of $\ce{H+}$ acts to increase acidity and lower seawater pH, defined as
+
+$$\ce{pH}=-\log_{10}\ce{[H+]}$$
+
+::: callout-note
+**pH**: a measure of the acidity of water where lower pH reflects more acidic conditions; reported on a log-scale such that a 1-unit drop in pH is equivalent to a factor of 10 increase in acidity
+:::
+
+and lower the concentration of carbonate ions \ce{CO3^{2-}}, via
+
+$$\ce{CO3^{2-} + H+  -> HCO3-}$$ Acidification impacts will depend on organism responses to multiple, simultaneous chemical changes—increasing $\ce{CO2}$, $\ce{HCO3-}$ , and $\ce{H+}$ and decreasing $\ce{CO3^{2-}}$. Many types of marine organisms that form shells and skeletons from calcium carbonate ($\ce{CaCO3}$) minerals are sensitive to acidification. The solubility of carbonate minerals,
+
+$$\ce{CaCO3 (s) <-> CO3^{2-} + Ca2+}$$
+
+can be expressed as a carbon saturation state
+
+$$ \Omega = \frac{\ce{[CO3^{2-}][Ca2+]}}{K_{sp}} $$
+
+where $K_{sp}$ is the apparent solubility product at a given temperature, salinity and pressure for each mineral form of $\ce{CaCO3}$. A value of $\Omega$ \< 1 indicates undersaturation with respect to thermodynamic equilibrium, and under those seawater conditions, unprotected carbonate materials will dissolve. The multiple forms of carbonate minerals vary in *K*~sp~ and so have different solubilities, with calcite being less soluble than aragonite and amorphous calcium carbonate. As $\ce{CO2}$ increases, the $\ce{CO3^{2-}}$ concentration declines because of consumption with $\ce{H+}$ (Equation 3) causing a decline in $\Omega$.
+
+::: callout-note
+**aragonite** and **calcite** are two mineral forms of calcium carbonate $\ce{CaCO3}$. Both are used by marine organisms in shell and skeleton formation by a biominerlization. Aragonite is the more soluble of the two, with rapid dissolution kinetics
+:::
+
+Ocean surface waters exchange $\ce{CO2}$ with the overlying atmosphere via physical gas transfer, and the surface seawater partial pressure, $\ce{pCO2}$, tends to track the growth of atmospheric $\ce{CO2}$ for much of the global ocean, as illustrated by long-term time series records at numerous open-ocean locations (26) and analysis of global surface ocean $\ce{CO2}$ observational networks (27). As a result, surface pH and $\ce{CO3^{2-}}$ are declining, and surface ocean pH is estimated to have dropped on average globally by approximately 0.1 units from the preindustrial era to present, which is an ∼30% increase in hydrogen ion concentration.
+
+Hence, as $\Omega$ declines, aragonite in particular becomes more soluble and aragonite calcareous shells of marine life forms become vulnerable to dissolving.
+
+Studies have already found evidence of extensive shell dissolution of the aragonite shells of the pteropod (small snails) *Limacina helicina antarctica* in the Southern Ocean, where undersaturation (ie $\ce{Omega_{\text{ar}}<1})$ of aragonite is now a reality [@lischka2025].
+
+## Sea Level Rise
+
+evidence from IPCC encroachment on beaches salination of water tables impact on storm surge flooding

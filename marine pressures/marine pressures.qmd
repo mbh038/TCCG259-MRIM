@@ -1,0 +1,39 @@
+---
+title: "Marine Pressures"
+author: "Michael Hunt"
+date: "07/11/2025"
+format: html
+editor: visual
+bibliography:
+  - fisheries.bib
+  - references.bib
+---
+
+# Summary Table
+
+| **Issue** | **Marine Resources Affected** | **Main Impacts** | **Example Locations Especially Affected** |
+|----|----|----|----|
+| **Overfishing** | Commercial fish stocks, invertebrates (e.g. squid, crustaceans) | Depletion of target species, disruption of food webs, economic loss for coastal communities | North Atlantic (cod), Western Pacific (tuna), South China Sea |
+| **Climate Change (Warming & Ocean Acidification)** | Coral reefs, shellfish, plankton, fish populations | Coral bleaching, reduced calcification, species migration, ecosystem shifts | Great Barrier Reef (Australia), Coral Triangle (SE Asia), Arctic Ocean |
+| **Marine Pollution (Plastics & Chemicals)** | All marine life, seabirds, mammals, benthic organisms | Ingestion and entanglement, bioaccumulation of toxins, habitat degradation | North Pacific Gyre, Mediterranean Sea, Indian Ocean |
+| **Coastal Development & Habitat Destruction** | Mangroves, seagrass beds, coral reefs, estuaries | Loss of nursery grounds, reduced coastal protection, biodiversity decline | Southeast Asia, Caribbean, East African coast |
+| **Shipping & Underwater Noise Pollution** | Marine mammals (whales, dolphins), fish, plankton | Behavioural disturbance, disrupted communication and navigation, physical injury | North Atlantic shipping lanes, Gulf of Mexico, Mediterranean |
+| **Deep-Sea Mining & Resource Extraction** | Deep-sea corals, benthic invertebrates, mineral-rich sediments | Habitat destruction, sediment plumes, loss of poorly known biodiversity | Clarion-Clipperton Zone (Pacific), Indian Ocean ridges, Mid-Atlantic Ridge |
+
+# Overfishing
+
+European Environment Agency (2002) ‘Late lessons from early warnings: the precautionary principle 1896-2000 —’. Available at: https://www.eea.europa.eu/publications/environmental_issue_report_2001_22.
+
+Kroodsma, D.A. et al. (2018) ‘Tracking the global footprint of fisheries’, Science, 359(6378), pp. 904–908. Available at: https://doi.org/10.1126/science.aao5646.
+
+MacGarvin, M. (2002) ‘Fisheries: taking stock’, in Late Lessons from Early Warnings. European Environment Association. Available at: https://www.eea.europa.eu/publications/environmental_issue_report_2001_22/issue-22-part-02.pdf/view.
+
+Montecino, V. and Lange, C.B. (2009) ‘The Humboldt Current System: Ecosystem components and processes, fisheries, and sediment studies’, Progress in Oceanography, 83(1–4), pp. 65–79. Available at: https://doi.org/10.1016/j.pocean.2009.07.041.
+
+NOAA (2025) ‘Atlantic Cod’. Available at: https://www.fisheries.noaa.gov/species/atlantic-cod.
+
+Roberts, C. et al. (2024) ‘Rethinking sustainability of marine fisheries for a fast-changing planet’, npj Ocean Sustainability, 3(1), p. 41. Available at: https://doi.org/10.1038/s44183-024-00078-2.
+
+Roberts, C.M. et al. (2025) ‘Why we should protect the high seas from all extraction, forever’, Nature, 642(8066), pp. 34–37. Available at: https://doi.org/10.1038/d41586-025-01665-0.
+
+White, C. and Costello, C. (2014) ‘Close the High Seas to Fishing?’, PLoS Biology, 12(3), p. e1001826. Available at: https://doi.org/10.1371/journal.pbio.1001826.
