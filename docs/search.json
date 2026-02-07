@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "CORN318 Marine Pollution and Ecotoxicology",
+    "title": "TCCG259 Marine Resources, Innovation and Management",
     "section": "",
     "text": "Index",
     "crumbs": [
@@ -12,7 +12,7 @@
   {
     "objectID": "index.html#quarto",
     "href": "index.html#quarto",
-    "title": "CORN318 Marine Pollution and Ecotoxicology",
+    "title": "TCCG259 Marine Resources, Innovation and Management",
     "section": "0.1 Quarto",
     "text": "0.1 Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
     "crumbs": [
@@ -22,11 +22,101 @@
   {
     "objectID": "index.html#running-code",
     "href": "index.html#running-code",
-    "title": "CORN318 Marine Pollution and Ecotoxicology",
+    "title": "TCCG259 Marine Resources, Innovation and Management",
     "section": "0.2 Running Code",
     "text": "0.2 Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Index{.unnumbered}</span>"
+    ]
+  },
+  {
+    "objectID": "marine_impacts_of_climate_change/climate_change_impacts.html",
+    "href": "marine_impacts_of_climate_change/climate_change_impacts.html",
+    "title": "2  Marine impacts of climate change",
+    "section": "",
+    "text": "2.1 Overview\nIn this presentation we will consider the impact of climate change on the marine environment. In particular, we will discuss",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Marine impacts of climate change</span>"
+    ]
+  },
+  {
+    "objectID": "marine_impacts_of_climate_change/climate_change_impacts.html#overview",
+    "href": "marine_impacts_of_climate_change/climate_change_impacts.html#overview",
+    "title": "2  Marine impacts of climate change",
+    "section": "",
+    "text": "Sea surface temperature rise\nSea level rise\nAcidification\nLocal changes in salinity\nGeopolitical issues\nChange in frequency and severity of extreme events",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Marine impacts of climate change</span>"
+    ]
+  },
+  {
+    "objectID": "marine_impacts_of_climate_change/climate_change_impacts.html#ocean-acidification",
+    "href": "marine_impacts_of_climate_change/climate_change_impacts.html#ocean-acidification",
+    "title": "2  Marine impacts of climate change",
+    "section": "2.2 Ocean Acidification",
+    "text": "2.2 Ocean Acidification\n\n\n\nDoney 2020\n\n\nAt seawater pH levels (∼8), \\(\\ce{CO2}\\) added to seawater reacts with water to form bicarbonate \\(\\ce{HCO3-}\\) and hydrogen ions \\(\\ce{H+}\\):\n\\[\\ce{CO2 + H2O -&gt; H2CO3- + H+}\\] The release of \\(\\ce{H+}\\) acts to increase acidity and lower seawater pH, defined as\n\\[\\ce{pH}=-\\log_{10}\\ce{[H+]}\\]\n\n\n\n\n\n\nNote\n\n\n\npH: a measure of the acidity of water where lower pH reflects more acidic conditions; reported on a log-scale such that a 1-unit drop in pH is equivalent to a factor of 10 increase in acidity\n\n\nand lower the concentration of carbonate ions , via\n\\[\\ce{CO3^{2-} + H+  -&gt; HCO3-}\\] Acidification impacts will depend on organism responses to multiple, simultaneous chemical changes—increasing \\(\\ce{CO2}\\), \\(\\ce{HCO3-}\\) , and \\(\\ce{H+}\\) and decreasing \\(\\ce{CO3^{2-}}\\). Many types of marine organisms that form shells and skeletons from calcium carbonate (\\(\\ce{CaCO3}\\)) minerals are sensitive to acidification. The solubility of carbonate minerals,\n\\[\\ce{CaCO3 (s) &lt;-&gt; CO3^{2-} + Ca2+}\\]\ncan be expressed as a carbon saturation state\n\\[ \\Omega = \\frac{\\ce{[CO3^{2-}][Ca2+]}}{K_{sp}} \\]\nwhere \\(K_{sp}\\) is the apparent solubility product at a given temperature, salinity and pressure for each mineral form of \\(\\ce{CaCO3}\\). A value of \\(\\Omega\\) &lt; 1 indicates undersaturation with respect to thermodynamic equilibrium, and under those seawater conditions, unprotected carbonate materials will dissolve. The multiple forms of carbonate minerals vary in Ksp and so have different solubilities, with calcite being less soluble than aragonite and amorphous calcium carbonate. As \\(\\ce{CO2}\\) increases, the \\(\\ce{CO3^{2-}}\\) concentration declines because of consumption with \\(\\ce{H+}\\) (Equation 3) causing a decline in \\(\\Omega\\).\n\n\n\n\n\n\nNote\n\n\n\naragonite and calcite are two mineral forms of calcium carbonate \\(\\ce{CaCO3}\\). Both are used by marine organisms in shell and skeleton formation by a biominerlization. Aragonite is the more soluble of the two, with rapid dissolution kinetics\n\n\nOcean surface waters exchange \\(\\ce{CO2}\\) with the overlying atmosphere via physical gas transfer, and the surface seawater partial pressure, \\(\\ce{pCO2}\\), tends to track the growth of atmospheric \\(\\ce{CO2}\\) for much of the global ocean, as illustrated by long-term time series records at numerous open-ocean locations (26) and analysis of global surface ocean \\(\\ce{CO2}\\) observational networks (27). As a result, surface pH and \\(\\ce{CO3^{2-}}\\) are declining, and surface ocean pH is estimated to have dropped on average globally by approximately 0.1 units from the preindustrial era to present, which is an ∼30% increase in hydrogen ion concentration.\nHence, as \\(\\Omega\\) declines, aragonite in particular becomes more soluble and aragonite calcareous shells of marine life forms become vulnerable to dissolving.\nStudies have already found evidence of extensive shell dissolution of the aragonite shells of the pteropod (small snails) Limacina helicina antarctica in the Southern Ocean, where undersaturation (ie \\(\\ce{Omega_{\\text{ar}}&lt;1})\\) of aragonite is now a reality (Lischka et al. 2025).",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Marine impacts of climate change</span>"
+    ]
+  },
+  {
+    "objectID": "marine_impacts_of_climate_change/climate_change_impacts.html#sea-level-rise",
+    "href": "marine_impacts_of_climate_change/climate_change_impacts.html#sea-level-rise",
+    "title": "2  Marine impacts of climate change",
+    "section": "2.3 Sea Level Rise",
+    "text": "2.3 Sea Level Rise\nevidence from IPCC encroachment on beaches salination of water tables impact on storm surge flooding\n\n\n\n\nLischka, Silke, Jan Michels, Lennart Thomas Bach, Katharina Csenteri, Sonja Konschak, and Stanislav N. Gorb. 2025. “Pteropods as Early-Warning Indicators of Ocean Acidification.” Limnology and Oceanography 70 (6): 1651–65. https://doi.org/10.1002/lno.70079.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Marine impacts of climate change</span>"
+    ]
+  },
+  {
+    "objectID": "marine_plastics/marine_plastics.html",
+    "href": "marine_plastics/marine_plastics.html",
+    "title": "3  Marine Plastics",
+    "section": "",
+    "text": "3.1 Summary\nBriefing Document: Land-Based Plastic Waste as a Primary Source of Marine Pollution\nSources:\nJambeck, J.R. et al. (2015) ‘Plastic waste inputs from land into the ocean’, Science, 347(6223), pp. 768–771. Available at: https://doi.org/10.1126/science.1260352.\nLaw, K.L. and Thompson, R.C. (2014) ‘Microplastics in the seas’, Science, 345(6193), pp. 144–145. Available at: https://doi.org/10.1126/science.1254065.\nLaw, K.L. (2017) ‘Plastics in the Marine Environment’, Annual Review of Marine Science, 9(1), pp. 205–229. Available at: https://doi.org/10.1146/annurev-marine-010816-060409.\nSchmid, C., Cozzarini, L. and Zambello, E. (2021) ‘Microplastic’s story’, Marine Pollution Bulletin, 162(October 2020), pp. 111820–111820. Available at: https://doi.org/10.1016/j.marpolbul.2020.111820.\nSchmidt, C., Krauth, T. and Wagner, S. (2017) ‘Export of Plastic Debris by Rivers into the Sea’, Environmental Science and Technology, 51(21), pp. 12246–12253. Available at: https://doi.org/10.1021/acs.est.7b02368.\nZantis, L.J. et al. (2021) ‘Marine mammals and microplastics: A systematic review and call for standardisation’, Environmental Pollution, 269. Available at: https://doi.org/10.1016/j.envpol.2020.116142.\nAn estimated 4.8 to 12.7 million metric tons (MT) of plastic waste entered the world’s oceans from land-based sources in 2010 alone, a figure one to three orders of magnitude greater than the reported mass of all floating plastic debris. This significant influx is primarily driven by the size of coastal populations and, most critically, the quality of municipal solid waste management systems. Middle-income countries, which are experiencing rapid economic growth that outpaces the development of waste management infrastructure, are the largest contributors; 16 of the top 20 contributing nations fall into this category, accounting for 83% of all mismanaged plastic waste.\nRivers serve as a primary conduit for this waste, transporting an estimated 0.41 to 4 million Mt of plastic to the sea annually. The contribution is highly concentrated, with the top 10 river systems—eight of which are in Asia—transporting between 88% and 95% of the total global riverine plastic load. This is due to a nonlinear relationship where large, population-rich catchments deliver a disproportionately high fraction of their mismanaged plastic waste.\nProjections indicate that without significant improvements in waste management, the cumulative quantity of plastic waste available to enter the marine environment will increase by an order of magnitude by 2025. Mitigation efforts focused on substantial infrastructure investment in the top contributing countries and river basins offer the most effective path to drastically reduce plastic pollution. A 50% reduction of mismanaged waste in the top 20 countries could decrease the total input by 41% by 2025, while a 50% load reduction in the top 10 rivers could cut the total river-based contribution by 45%.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Marine Plastics</span>"
+    ]
+  },
+  {
+    "objectID": "marine_plastics/marine_plastics.html#quantifying-the-global-influx-of-land-based-plastic",
+    "href": "marine_plastics/marine_plastics.html#quantifying-the-global-influx-of-land-based-plastic",
+    "title": "3  Marine Plastics",
+    "section": "3.2 Quantifying the Global Influx of Land-Based Plastic",
+    "text": "3.2 Quantifying the Global Influx of Land-Based Plastic\nScientific analysis provides a foundational, order-of-magnitude estimate of the plastic waste entering the marine environment from terrestrial sources, identifying the primary drivers and geographic hotspots of pollution.\n\n3.2.1 The 2010 Global Estimate\nA 2015 study by Jambeck et al. provided the first rigorous global estimate of land-based plastic waste entering the ocean. The analysis, which linked worldwide data on solid waste, population density, and economic status for 192 coastal countries, produced the following key figures for the year 2010:\n\nTotal Plastic Waste Generated: 275 million metric tons (MT) were generated by the 192 countries, which accounted for 93% of the global population. This figure roughly tracks global plastic resin production (270 million MT in 2010).\nCoastal Plastic Waste: Populations living within 50 km of a coast generated an estimated 99.5 million MT of plastic waste.\nMismanaged Waste: Of the coastal plastic waste, 31.9 million MT were classified as “mismanaged.” This is defined as material that is either littered or inadequately disposed of in systems like open, uncontrolled dumps where it is not fully contained.\nOcean Input: From the mismanaged coastal waste, an estimated 4.8 to 12.7 million MT entered the ocean. This wide range reflects uncertainty in the conversion rates of mismanaged waste to marine debris.\n\nThis estimate of plastic entering the ocean is one to three orders of magnitude greater than the reported mass of plastic observed floating in ocean gyres, pointing to a significant knowledge gap regarding the ultimate fate and location of marine plastic.\n\n\n3.2.2 Geographic Distribution and Key Contributors\nThe mass of mismanaged plastic waste is not evenly distributed globally. It is largely determined by population size and the percentage of waste that is mismanaged. The analysis identified the top 20 countries ranked by the mass of mismanaged plastic waste, which collectively account for 83% of the total.\n\nDominance of Middle-Income Countries: Sixteen of the top 20 contributing countries are classified as middle-income (Upper Middle, Lower Middle), where rapid economic growth and increasing plastic consumption are often not matched by corresponding development in waste management infrastructure. These nations typically have high percentages of mismanaged waste (e.g., China 76%, Indonesia 83%, Vietnam 88%).\nRole of High-Income Countries: High-income countries can also be significant sources due to high per capita waste generation, even with low rates of mismanagement. The United States, for example, ranks 20th. Despite having only a 2% mismanaged waste fraction, its large coastal population and high waste generation rate (2.58 kg per person per day) result in a substantial mass of mismanaged plastic waste (0.28 million MT/year).\n\nThe following table details the estimates for the top 20 countries in 2010.\n\nhere(\"data\",\"marine_plastics.xlsx\") |&gt;\n  read_excel(sheet = \"jambeck_2015\") |&gt;\n  kbl()\n\n\n\n\nRank\nCountry\nEconomic Classification\nCoastal Pop. (millions)\nWaste Gen. Rate (kg/ppd)\n% Plastic Waste\n% Mismanaged Waste\nMismanaged Plastic Waste (MMT/year)\n% of Total Mismanaged Plastic Waste\nPlastic Marine Debris (MMT/year)\n\n\n\n\n1\nChina\nUMI\n262.9\n1.10\n11\n76\n8.82\n27.7\n1.32–3.53\n\n\n2\nIndonesia\nLMI\n187.2\n0.52\n11\n83\n3.22\n10.1\n0.48–1.29\n\n\n3\nPhilippines\nLMI\n83.4\n0.50\n15\n83\n1.88\n5.9\n0.28–0.75\n\n\n4\nVietnam\nLMI\n55.9\n0.79\n13\n88\n1.83\n5.8\n0.28–0.73\n\n\n5\nSri Lanka\nLMI\n14.6\n5.10\n7\n84\n1.59\n5.0\n0.24–0.64\n\n\n6\nThailand\nUMI\n26.0\n1.20\n12\n75\n1.03\n3.2\n0.15–0.41\n\n\n7\nEgypt\nLMI\n21.8\n1.37\n13\n69\n0.97\n3.0\n0.15–0.39\n\n\n8\nMalaysia\nUMI\n22.9\n1.52\n13\n57\n0.94\n2.9\n0.14–0.37\n\n\n9\nNigeria\nLMI\n27.5\n0.79\n13\n83\n0.85\n2.7\n0.13–0.34\n\n\n10\nBangladesh\nLI\n70.9\n0.43\n8\n89\n0.79\n2.5\n0.12–0.31\n\n\n11\nSouth Africa\nUMI\n12.9\n2.00\n12\n56\n0.63\n2.0\n0.09–0.25\n\n\n12\nIndia\nLMI\n187.5\n0.34\n3\n87\n0.60\n1.9\n0.09–0.24\n\n\n13\nAlgeria\nUMI\n16.6\n1.20\n12\n60\n0.52\n1.6\n0.08–0.21\n\n\n14\nTurkey\nUMI\n34.0\n1.77\n12\n18\n0.49\n1.5\n0.07–0.19\n\n\n15\nPakistan\nLMI\n14.6\n0.79\n13\n88\n0.48\n1.5\n0.07–0.19\n\n\n16\nBrazil\nUMI\n74.7\n1.03\n16\n11\n0.47\n1.5\n0.07–0.19\n\n\n17\nBurma\nLI\n19.0\n0.44\n17\n89\n0.46\n1.4\n0.07–0.18\n\n\n19\nMorocco\nLMI\n17.3\n1.46\n5\n68\n0.31\n1.0\n0.05–0.12\n\n\n19\nNorth Korea\nLI\n17.3\n0.60\n9\n90\n0.30\n1.0\n0.05–0.12\n\n\n20\nUnited States\nHIC\n112.9\n2.58\n13\n2\n0.28\n0.9\n0.04–0.11\n\n\n\n\n\n\n\nNote: Coastal European Union countries (23 total), if considered collectively, would rank 18th.\nSource: Jambeck et al., Science (2015)",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Marine Plastics</span>"
+    ]
+  },
+  {
+    "objectID": "marine_plastics/marine_plastics.html#rivers-as-the-primary-pathway-to-the-sea",
+    "href": "marine_plastics/marine_plastics.html#rivers-as-the-primary-pathway-to-the-sea",
+    "title": "3  Marine Plastics",
+    "section": "3.3 Rivers as the Primary Pathway to the Sea",
+    "text": "3.3 Rivers as the Primary Pathway to the Sea\nWhile initial estimates focused on waste generated in coastal zones, further research has established that rivers are a major transport pathway, connecting vast inland populations and their waste to the marine environment.\n\n3.3.1 The Role and Scale of Riverine Transport\nAnalysis of a global dataset of plastic debris in river water columns confirms that rivers act as a major conveyor for plastics of all sizes.\n\nGlobal River Input Estimate: Based on observed plastic loads, rivers are estimated to transport between 0.41 and 4 million MT of plastic into the sea annually. The wide range of this estimate is due to high uncertainty from sparse and heterogeneous data.\nNonlinear Relationship: The amount of plastic transported by a river is positively but nonlinearly related to the amount of mismanaged plastic waste (MMPW) generated in its catchment. This means that large rivers with population-rich catchments deliver a disproportionately higher fraction of their available MMPW into the sea. This relationship is demonstrated by a log-log linear regression slope greater than 1.\n\n\n\n3.3.2 Disproportionate Contribution from Major Rivers\nA critical finding is the highly concentrated nature of riverine plastic emissions. The disproportional transport dynamics mean that a small number of rivers are responsible for the vast majority of the global plastic load.\n\nTop 10 Rivers: The 10 top-ranked rivers are calculated to transport 88% to 95% of the total global plastic load that enters the sea via rivers.\nGeographic Concentration: Eight of these top ten highest-load catchments are located in Asia, reflecting the convergence of large populations and high rates of MMPW generation in these regions.\n\nThis concentration suggests that plastic accumulation is a significant issue within river systems themselves, with debris being retained on river banks and in bed sediments before eventual transport to the ocean.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Marine Plastics</span>"
+    ]
+  },
+  {
+    "objectID": "marine_plastics/marine_plastics.html#future-projections-and-mitigation-strategies",
+    "href": "marine_plastics/marine_plastics.html#future-projections-and-mitigation-strategies",
+    "title": "3  Marine Plastics",
+    "section": "3.4 Future Projections and Mitigation Strategies",
+    "text": "3.4 Future Projections and Mitigation Strategies\nUnder a business-as-usual scenario, the problem of marine plastic pollution is projected to worsen significantly. However, the analytical frameworks used to quantify the problem also allow for the evaluation of potential mitigation strategies.\n\n3.4.1 Business-as-Usual Projections for 2025\nAssuming no improvements in waste management infrastructure, the cumulative quantity of plastic waste available to enter the marine environment from land is predicted to increase by an order of magnitude by 2025. The geographic distribution of mismanaged waste is not expected to change substantially, but the disparity between developing and industrialized countries will grow. For example, mismanaged plastic waste in the United States is projected to increase by 22%, whereas in the top five contributing countries, it is expected to more than double.\n\n\n3.4.2 Evaluating Mitigation Scenarios\nThe concentration of plastic sources in specific countries and river basins presents an opportunity for highly targeted and effective interventions.\n\nImproving Waste Management: This is identified as a paramount strategy. A 50% improvement in waste management (i.e., a 50% reduction in mismanaged waste) in the top 20 countries would decrease the total mass of mismanaged plastic waste by 41% by 2025.\nTargeting Key Rivers: Given their outsized role, focusing on the highest-polluting rivers is highly efficient. Reducing the plastic loads by 50% in the 10 top-ranked rivers would reduce the total global river-based load to the sea by 45%.\nReducing Waste Generation: An alternative strategy involves reducing waste generation and plastic use, primarily targeting higher-income countries. Capping per capita waste generation and the percentage of plastic in the waste stream in the 91 countries that exceed the 2010 average would achieve a 26% decrease by 2025.\nCombined Strategy: A 77% reduction in annual plastic input to the ocean could be realized by 2025 through a combined strategy of achieving 0% mismanaged waste in the 10 top-ranked countries and capping plastic waste generation globally.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Marine Plastics</span>"
+    ]
+  },
+  {
+    "objectID": "marine_plastics/marine_plastics.html#broader-context-and-knowledge-gaps",
+    "href": "marine_plastics/marine_plastics.html#broader-context-and-knowledge-gaps",
+    "title": "3  Marine Plastics",
+    "section": "3.5 Broader Context and Knowledge Gaps",
+    "text": "3.5 Broader Context and Knowledge Gaps\nThe influx of plastic into the ocean is a direct consequence of the material’s properties, its production trajectory, and its end-of-life management.\n\n3.5.1 The Rise of Plastic Production and Waste\nThe problem is rooted in the exponential growth of plastics production, which has increased from less than 50 million MT per year in the 1970s to 311 million MT in 2014.\n\nPackaging Dominance: The largest market demand for plastics is for packaging materials (35% in the U.S.), which are designed for short-term use and immediate disposal.\nLow Recovery Rates: Despite the recyclability of many plastics, recovery rates remain low. In 2012, only an estimated 8.8% of postconsumer plastics were recovered for recycling in the United States; in Europe, the rate was 30% in 2014.\nPersistence: Plastics are synthetic organic polymers that are resistant to biodegradation, making them a persistent form of litter in the marine environment.\n\n\n\n3.5.2 Environmental Fragmentation\nOnce in the marine environment, particularly when exposed to sunlight at the sea surface or on coastlines, plastics undergo weathering. Exposure to UV radiation initiates photo-oxidative degradation, which weakens the material and leads to fracturing and fragmentation into progressively smaller particles, including microplastics (&lt;5 mm).\n\n\n3.5.3 Key Uncertainties and Research Needs\nWhile the scale of the problem is becoming clearer, significant knowledge gaps remain:\n\nData Scarcity and Standardization: There is a lack of standardized methodologies for sampling and analyzing plastic debris across different marine reservoirs (sea surface, water column, seafloor, etc.), which hinders global-scale assessments.\nRefining Input Estimates: Estimates of plastic inputs from land and rivers are based on models that require more empirical data for validation, including direct measurements of waste transport by rivers, wind, and tides.\nFate of Marine Plastics: The discrepancy between the high estimated inputs and lower observed quantities of floating plastic (the “missing plastic” problem) highlights the need to better understand the fragmentation, transport, and ultimate sinks (e.g., seafloor, biota, sediments) of plastic in the marine environment.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Marine Plastics</span>"
     ]
   },
   {
