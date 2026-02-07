@@ -4,27 +4,7 @@
     "href": "index.html",
     "title": "TCCG259 Marine Resources, Innovation and Management",
     "section": "",
-    "text": "Index",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Index{.unnumbered}</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#quarto",
-    "href": "index.html#quarto",
-    "title": "TCCG259 Marine Resources, Innovation and Management",
-    "section": "0.1 Quarto",
-    "text": "0.1 Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Index{.unnumbered}</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#running-code",
-    "href": "index.html#running-code",
-    "title": "TCCG259 Marine Resources, Innovation and Management",
-    "section": "0.2 Running Code",
-    "text": "0.2 Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
+    "text": "Index\nThese are the course materials for the module TCCG259 Marine Resources and Innovation, taught at Newquay University Centre.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Index{.unnumbered}</span>"
     ]
