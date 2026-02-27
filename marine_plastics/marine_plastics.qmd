@@ -1,10 +1,12 @@
 # Marine Plastics
 
 ```{r}
-library(tidyverse)
-library(here)
-library(readxl)
-library(kableExtra)
+#| include: false
+source(here::here("_common.R"))
+```
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
 Briefing Document: Land-Based Plastic Waste as a Primary Source of Marine Pollution
