@@ -20,41 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
 }
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
 }
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
 }
-</style>
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -223,38 +209,24 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </header>
 
 
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stderr">
-<pre><code>── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
-✔ dplyr     1.1.4     ✔ readr     2.1.6
-✔ forcats   1.0.1     ✔ stringr   1.6.0
-✔ ggplot2   4.0.1     ✔ tibble    3.3.1
-✔ lubridate 1.9.4     ✔ tidyr     1.3.2
-✔ purrr     1.2.1     
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-ℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors</code></pre>
-</div>
-<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(here)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stderr">
-<pre><code>here() starts at /Users/michaelhunt/git_repos/TCCG259-MRIM</code></pre>
-</div>
-</div>
-<p>25,000 species already recorded in <a href="https://www.marinespecies.org/deepsea/index.php">World Register of Deep-Sea Species (WoRDSS)</a>, <span class="citation" data-cites="mora2011">(<a href="../references.html#ref-mora2011" role="doc-biblioref"><strong>mora2011?</strong></a>)</span>. Many more likely to be found.</p>
+<p>25,000 species already recorded in <a href="https://www.marinespecies.org/deepsea/index.php">World Register of Deep-Sea Species (WoRDSS)</a>, <span class="citation" data-cites="mora2011">(<a href="../references.html#ref-mora2011" role="doc-biblioref">Mora et al. 2011</a>)</span>. Many more are likely to be found.</p>
 <p>Life in the deep sea is specially adapted to thrive in areas characterized by</p>
 <ul>
 <li>high pressure</li>
 <li>absence of sunlight</li>
 <li>limited nutrients.</li>
 </ul>
+<p><a href="#fig-blasiak_fig3" class="quarto-xref">Figure&nbsp;<span>6.1</span></a> taken from a comprehensive review paper by Blasiak and co-workers <span class="citation" data-cites="blasiak2022">(<a href="../references.html#ref-blasiak2022" role="doc-biblioref">2022</a>)</span> shows a range of adaptions in the deep sea that can inspire innovations:</p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="fu">here</span>(<span class="st">"biomimetics"</span>,<span class="st">"blasiak_fig_3.png"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output-display">
-<div>
-<figure class="figure">
-<p><img src="blasiak_fig_3.png" class="img-fluid figure-img" width="638"></p>
+<div id="fig-blasiak_fig3" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-blasiak_fig3-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="blasiak_fig_3.png" class="img-fluid figure-img" width="638">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-blasiak_fig3-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;6.1: Inspiration from deep-sea species. Life in the deep sea is specially adapted to thrive in areas characterized by high pressure, absence of sunlight, and limited nutrients. Examples include (A) the mirrored eyes of mesopelagic teleost fish like the glasshead barreleye fish; (B) the transparent teeth of the deep-sea dragonfish; (C) the morphology of the Mariana snailfish (note the CT scan revealing a small crustacean, the green shape, in the snailfish’s stomach); (D) antifouling compounds extracted from deep-sea sponges; (E) the air-filled shell that provides buoyancy to the Ram’s horn squid; and (F) the armored shell of the Scaly-foot snail. Photo credits: (A) and (B) MBARI; (C) Adam Summer /University of Washington; (D) CoralFISH/Havforskningsinstituttet; (E) Schmidt Ocean Institute; (F) Chong Chen.
+</figcaption>
 </figure>
 </div>
 </div>
@@ -263,15 +235,30 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="the-mirrored-eyes-of-mesopelagic-teleost-fish" class="level3" data-number="6.0.1">
 <h3 data-number="6.0.1" class="anchored" data-anchor-id="the-mirrored-eyes-of-mesopelagic-teleost-fish"><span class="header-section-number">6.0.1</span> The mirrored eyes of mesopelagic teleost fish</h3>
 <p>No light extends beyond 1000 m into the ocean, but some faint traces of residual daylight persist at depths from 500 to 1000 m</p>
-<p>A range of species in this zone produce bioluminescence <span class="citation" data-cites="land2009">(<a href="../references.html#ref-land2009" role="doc-biblioref"><strong>land2009?</strong></a>)</span> creating a unique sensory environment. This in turn is associated with the double eye structure often found in species in the depth range 200-1000m: a large eye pointing upwards and a smaller eye pointing downward. Land <span class="citation" data-cites="land2000">(<a href="../references.html#ref-land2000" role="doc-biblioref"><strong>land2000?</strong></a>)</span> describes how this double eye phenomenon, found across three phyla (vertebrates, crustaceans and molluscs) must imply different functions for the two eyes, since the downwelling light is some 200 times more intense than the upwelling light from the depths. He argues that the upward pointing eye is designed to spot the sillhouette of sinking food, and so needs high resolution, while the downward pointing eye is designed to detect flashes of bioluminesence against a dark background. These flashes may come from potential predators. it is sufficient to know of their presence but unnecessary to know their precise location, hence the downward facing eye can have poor resolution and hence be smaller than the upward facing eye.</p>
+<p>A range of species in this zone produce bioluminescence <span class="citation" data-cites="land2009">(<a href="../references.html#ref-land2009" role="doc-biblioref">Land 2009</a>)</span> creating a unique sensory environment. This in turn is associated with the double eye structure often found in species in the depth range 200-1000m: a large eye pointing upwards and a smaller eye pointing downward. Land <span class="citation" data-cites="land2000">(<a href="../references.html#ref-land2000" role="doc-biblioref">2000</a>)</span> describes how this double eye phenomenon, found across three phyla (vertebrates, crustaceans and molluscs) must imply different functions for the two eyes, since the downwelling light is some 200 times more intense than the upwelling light from the depths. He argues that the upward pointing eye is designed to spot the sillhouette of sinking food, and so needs high resolution, while the downward pointing eye is designed to detect flashes of bioluminesence against a dark background. These flashes may come from potential predators. it is sufficient to know of their presence but unnecessary to know their precise location, hence the downward facing eye can have poor resolution and hence be smaller than the upward facing eye.</p>
 <p>A number of mesopelagic teleost fishes have evolved unique eyes that benefit from both sources of light (through a combination of reflective and refractive optics)</p>
 <p>The two most-studied of these species are the brownsnout spookfish (<em>Dolichopteryx longipes</em>) and the glasshead barreleye fish (<em>Rhynchohyalus natalensis</em>)</p>
-<p>The reflective eyes of decapods like lobsters spurred advances in the field of astrophysics, namely the development of “lobster-eye” X-ray telescopes (248, 249), and the biomimetic design potential of further telescope innovations focused on the unique tilting of mirror plates in <em>D. longipes</em> eyes has been suggested (250, 251).</p>
-<p>A recent study created advanced models to test the optical performance of <em>D. longipes</em>, paving the way to the development of optical systems that can function in harsh environments including the deep sea (252).</p>
-<p>Other examples of biomimetic design are found in architecture, where the mirrored eyes of <em>D. longipes</em> inspired concepts of energy-saving roof designs by making optimal use of available daylight (253, 254), as well as in the design of a streamlined passenger car based on the body line of <em>R. natalensis</em> (255).</p>
+<p>The reflective eyes of decapods like lobsters spurred advances in the field of astrophysics, namely the development of “lobster-eye” X-ray telescopes, and the biomimetic design potential of further telescope innovations focused on the unique tilting of mirror plates in <em>D. longipes</em> eyes has been suggested.</p>
+<p>A recent study created advanced models to test the optical performance of <em>D. longipes</em>, paving the way to the development of optical systems that can function in harsh environments including the deep sea.</p>
+<p>Other examples of biomimetic design are found in architecture, where the mirrored eyes of <em>D. longipes</em> inspired concepts of energy-saving roof designs by making optimal use of available daylight <span class="citation" data-cites="wainwright2014">(<a href="../references.html#ref-wainwright2014" role="doc-biblioref">Wainwright 2014</a>)</span>.</p>
 </section>
 <section id="the-transparent-teeth-of-the-deep-sea-dragonfish-aristostomias-stomians" class="level3" data-number="6.0.2">
 <h3 data-number="6.0.2" class="anchored" data-anchor-id="the-transparent-teeth-of-the-deep-sea-dragonfish-aristostomias-stomians"><span class="header-section-number">6.0.2</span> The transparent teeth of the deep-sea dragonfish <em>Aristostomias stomians</em></h3>
+<div class="cell">
+<div class="cell-output-display">
+<div id="fig-dragonfish-teeth" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-dragonfish-teeth-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="dragonfish_teeth.png" class="img-fluid figure-img" width="673">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-dragonfish-teeth-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;6.2: The teeth of the dragonfish (<em>Aristostomias scintillans</em>) are almost transparent even under bioluminecent light, thus camoflagingthem in the darkness of the deep ocean. Taken from <span class="citation" data-cites="velasco-hogan2019">Velasco-Hogan et al. (<a href="../references.html#ref-velasco-hogan2019" role="doc-biblioref">2019</a>)</span>
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p>The deep-sea dragonfish (<em>Aristostomias scintillans</em>) has virtually transparent teeth, invisible even illuminated from close up by bioluminescent light. This gives them a stealth advantage in the darkness of the deep ocean. The transparency appears to arise from a nanoscale structure that also conributes to its hardness and a sharpness, comparable to the teeth of piranhas and great white sharks. These teeth are a source of inspiration for those seeking to develop transparent ceramics. <span class="citation" data-cites="velasco-hogan2019 ucsandiego2019">(<a href="../references.html#ref-velasco-hogan2019" role="doc-biblioref">Velasco-Hogan et al. 2019</a>; <a href="../references.html#ref-ucsandiego2019" role="doc-biblioref">UC San Diego 2019</a>)</span></p>
 </section>
 <section id="the-morphology-of-the-mariana-snailfish-note-the-ct-scan-revealing-a-small-crustacean-the-green-shape-in-the-snailfishs-stomach-pseudoliparis-swirei" class="level3" data-number="6.0.3">
 <h3 data-number="6.0.3" class="anchored" data-anchor-id="the-morphology-of-the-mariana-snailfish-note-the-ct-scan-revealing-a-small-crustacean-the-green-shape-in-the-snailfishs-stomach-pseudoliparis-swirei"><span class="header-section-number">6.0.3</span> The morphology of the Mariana snailfish (note the CT scan revealing a small crustacean, the green shape, in the snailfish’s stomach) <em>Pseudoliparis swirei</em></h3>
@@ -286,6 +273,29 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <h3 data-number="6.0.6" class="anchored" data-anchor-id="the-armored-shell-of-the-scaly-foot-snail-chrysomallon-squamiferum"><span class="header-section-number">6.0.6</span> The armored shell of the Scaly-foot snail <em>Chrysomallon squamiferum</em></h3>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-blasiak2022" class="csl-entry" role="listitem">
+Blasiak, Robert, Jean-Baptiste Jouffray, Diva J Amon, Fredrik Moberg, Joachim Claudet, Peter Søgaard&nbsp;Jørgensen, Agnes Pranindita, Colette C C Wabnitz, and Henrik Österblom. 2022. <span>“A Forgotten Element of the Blue Economy: Marine Biomimetics and Inspiration from the Deep Sea.”</span> Edited by Karen E Nelson. <em>PNAS Nexus</em> 1 (4): pgac196. <a href="https://doi.org/10.1093/pnasnexus/pgac196">https://doi.org/10.1093/pnasnexus/pgac196</a>.
+</div>
+<div id="ref-land2000" class="csl-entry" role="listitem">
+Land, Michael F. 2000. <span>“On the Functions of Double Eyes in Midwater Animals.”</span> Edited by S. P. Collin and N. J. Marshall. <em>Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences</em> 355 (1401): 1147–50. <a href="https://doi.org/10.1098/rstb.2000.0656">https://doi.org/10.1098/rstb.2000.0656</a>.
+</div>
+<div id="ref-land2009" class="csl-entry" role="listitem">
+———. 2009. <span>“Biological Optics: Deep Reflections.”</span> <em>Current Biology</em> 19 (2): R78–80. <a href="https://doi.org/10.1016/j.cub.2008.11.034">https://doi.org/10.1016/j.cub.2008.11.034</a>.
+</div>
+<div id="ref-mora2011" class="csl-entry" role="listitem">
+Mora, Camilo, Derek P. Tittensor, Sina Adl, Alastair G. B. Simpson, and Boris Worm. 2011. <span>“How Many Species Are There on Earth and in the Ocean?”</span> Edited by Georgina M. Mace. <em>PLoS Biology</em> 9 (8): e1001127. <a href="https://doi.org/10.1371/journal.pbio.1001127">https://doi.org/10.1371/journal.pbio.1001127</a>.
+</div>
+<div id="ref-ucsandiego2019" class="csl-entry" role="listitem">
+UC San Diego. 2019. <span>“Researchers Discover What Makes Deep-Sea Dragonfish Teeth Transparent.”</span> <em>Science Daily</em>. <a href="https://www.sciencedaily.com/releases/2019/06/190605133501.htm">https://www.sciencedaily.com/releases/2019/06/190605133501.htm</a>.
+</div>
+<div id="ref-velasco-hogan2019" class="csl-entry" role="listitem">
+Velasco-Hogan, Audrey, Dimitri D. Deheyn, Marcus Koch, Birgit Nothdurft, Eduard Arzt, and Marc A. Meyers. 2019. <span>“On the Nature of the Transparent Teeth of the Deep-Sea Dragonfish, Aristostomias Scintillans.”</span> <em>Matter</em> 1 (1): 235–49. <a href="https://doi.org/10.1016/j.matt.2019.05.010">https://doi.org/10.1016/j.matt.2019.05.010</a>.
+</div>
+<div id="ref-wainwright2014" class="csl-entry" role="listitem">
+Wainwright, Oliver. 2014. <span>“Will the Buildings of the Future Be Grown Underwater?”</span> <em>The Guardian</em>. <a href="https://www.theguardian.com/artanddesign/architecture-de sign-blog/2014/feb/17/buildings-future-underwater-nature-a rchitecture-michael-pawlyn-exhibition.">https://www.theguardian.com/artanddesign/architecture-de sign-blog/2014/feb/17/buildings-future-underwater-nature-a rchitecture-michael-pawlyn-exhibition.</a>
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->

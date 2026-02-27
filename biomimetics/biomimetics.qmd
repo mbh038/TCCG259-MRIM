@@ -1,11 +1,15 @@
 # Inspiration from deep-sea species
 
+```{r, include = FALSE}
+knitr::opts_chunk$set(message=FALSE, warning = FALSE, echo = FALSE)
+```
+
 ```{r}
 library(tidyverse)
 library(here)
 ```
 
-25,000 species already recorded in [World Register of Deep-Sea Species (WoRDSS)](https://www.marinespecies.org/deepsea/index.php), [@mora2011]. Many more likely to be found.
+25,000 species already recorded in [World Register of Deep-Sea Species (WoRDSS)](https://www.marinespecies.org/deepsea/index.php), [@mora2011]. Many more are likely to be found.
 
 Life in the deep sea is specially adapted to thrive in areas characterized by
 
@@ -13,7 +17,11 @@ Life in the deep sea is specially adapted to thrive in areas characterized by
 -   absence of sunlight
 -   limited nutrients.
 
+@fig-blasiak_fig3 taken from a comprehensive review paper by Blasiak and co-workers [-@blasiak2022] shows a range of adaptions in the deep sea that can inspire innovations:
+
 ```{r}
+#| label: fig-blasiak_fig3
+#| fig-cap: "Inspiration from deep-sea species. Life in the deep sea is specially adapted to thrive in areas characterized by high pressure, absence of sunlight, and limited nutrients. Examples include (A) the mirrored eyes of mesopelagic teleost fish like the glasshead barreleye fish; (B) the transparent teeth of the deep-sea dragonfish; (C) the morphology of the Mariana snailfish (note the CT scan revealing a small crustacean, the green shape, in the snailfish’s stomach); (D) antifouling compounds extracted from deep-sea sponges; (E) the air-filled shell that provides buoyancy to the Ram’s horn squid; and (F) the armored shell of the Scaly-foot snail. Photo credits: (A) and (B) MBARI; (C) Adam Summer /University of Washington; (D) CoralFISH/Havforskningsinstituttet; (E) Schmidt Ocean Institute; (F) Chong Chen."
 knitr::include_graphics(here("biomimetics","blasiak_fig_3.png"))
 ```
 
@@ -23,19 +31,27 @@ Examples include
 
 No light extends beyond 1000 m into the ocean, but some faint traces of residual daylight persist at depths from 500 to 1000 m
 
-A range of species in this zone produce bioluminescence [@land2009] creating a unique sensory environment. This in turn is associated with the double eye structure often found in species in the depth range 200-1000m: a large eye pointing upwards and a smaller eye pointing downward. Land [@land2000] describes how this double eye phenomenon, found across three phyla (vertebrates, crustaceans and molluscs) must imply different functions for the two eyes, since the downwelling light is some 200 times more intense than the upwelling light from the depths. He argues that the upward pointing eye is designed to spot the sillhouette of sinking food, and so needs high resolution, while the downward pointing eye is designed to detect flashes of bioluminesence against a dark background. These flashes may come from potential predators. it is sufficient to know of their presence but unnecessary to know their precise location, hence the downward facing eye can have poor resolution and hence be smaller than the upward facing eye.
+A range of species in this zone produce bioluminescence [@land2009] creating a unique sensory environment. This in turn is associated with the double eye structure often found in species in the depth range 200-1000m: a large eye pointing upwards and a smaller eye pointing downward. Land [-@land2000] describes how this double eye phenomenon, found across three phyla (vertebrates, crustaceans and molluscs) must imply different functions for the two eyes, since the downwelling light is some 200 times more intense than the upwelling light from the depths. He argues that the upward pointing eye is designed to spot the sillhouette of sinking food, and so needs high resolution, while the downward pointing eye is designed to detect flashes of bioluminesence against a dark background. These flashes may come from potential predators. it is sufficient to know of their presence but unnecessary to know their precise location, hence the downward facing eye can have poor resolution and hence be smaller than the upward facing eye.
 
 A number of mesopelagic teleost fishes have evolved unique eyes that benefit from both sources of light (through a combination of reflective and refractive optics)
 
 The two most-studied of these species are the brownsnout spookfish (*Dolichopteryx longipes*) and the glasshead barreleye fish (*Rhynchohyalus natalensis*)
 
-The reflective eyes of decapods like lobsters spurred advances in the field of astrophysics, namely the development of “lobster-eye” X-ray telescopes (248, 249), and the biomimetic design potential of further telescope innovations focused on the unique tilting of mirror plates in *D. longipes* eyes has been suggested (250, 251).
+The reflective eyes of decapods like lobsters spurred advances in the field of astrophysics, namely the development of “lobster-eye” X-ray telescopes, and the biomimetic design potential of further telescope innovations focused on the unique tilting of mirror plates in *D. longipes* eyes has been suggested.
 
-A recent study created advanced models to test the optical performance of *D. longipes*, paving the way to the development of optical systems that can function in harsh environments including the deep sea (252).
+A recent study created advanced models to test the optical performance of *D. longipes*, paving the way to the development of optical systems that can function in harsh environments including the deep sea.
 
-Other examples of biomimetic design are found in architecture, where the mirrored eyes of *D. longipes* inspired concepts of energy-saving roof designs by making optimal use of available daylight (253, 254), as well as in the design of a streamlined passenger car based on the body line of *R. natalensis* (255).
+Other examples of biomimetic design are found in architecture, where the mirrored eyes of *D. longipes* inspired concepts of energy-saving roof designs by making optimal use of available daylight [@wainwright2014].
 
 ### The transparent teeth of the deep-sea dragonfish *Aristostomias stomians*
+
+```{r}
+#| label: fig-dragonfish-teeth
+#| fig-cap: "The teeth of the dragonfish (*Aristostomias scintillans*) are almost transparent even under bioluminecent light, thus camoflagingthem in the darkness of the deep ocean. Taken from @velasco-hogan2019"
+knitr::include_graphics(here("biomimetics","dragonfish_teeth.png"))
+```
+
+The deep-sea dragonfish (*Aristostomias scintillans*) has virtually transparent teeth, invisible even illuminated from close up by bioluminescent light. This gives them a stealth advantage in the darkness of the deep ocean. The transparency appears to arise from a nanoscale structure that also conributes to its hardness and a sharpness, comparable to the teeth of piranhas and great white sharks. These teeth are a source of inspiration for those seeking to develop transparent ceramics. [@velasco-hogan2019; @ucsandiego2019]
 
 ### The morphology of the Mariana snailfish (note the CT scan revealing a small crustacean, the green shape, in the snailfish’s stomach) *Pseudoliparis swirei*
 

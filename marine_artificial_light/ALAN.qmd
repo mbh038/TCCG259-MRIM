@@ -12,9 +12,9 @@ Corals are known to use broadcast spawning as part of the reproductive cycle. It
 
 ## Invertebrate settlement 
 
-See Davies *et al*. [-@davies2015]
+Davies *et al*. [-@davies2015] present evidence that light at night can alter the composition of marine invertebrate communities.
 
-## Behavior of pelagic organisms
+## Behaviour of pelagic organisms
 
 See Berge *et al.* [-@berge2020]
 
@@ -28,7 +28,7 @@ See also Silva et al. 2017; Hu et al. 2018; Vandersteen et al. 2020)
 
 (Wiese et al. 2001; Le Corre et al. 2002; Jones and Francis 2003; Rodríguez et al. 2014; Syposz et al. 2018).
 
-## Impacts on diel vertical migration of zooplankton could be especially profound, given its importance for global carbon cycling.
+## Impacts on diel vertical migration of zooplankton
 
 Diel vertical migration is the daily vertical migration up and down the water by zooplankton and other species in both marine and freshwater lake environments. During the night the zooplankton migrate towards the surface in search of the phytoplankton on which they feed. As day comes the sunlight shining from above means that they become visible to predators such as fish who mainly hunt by visual signals. To defend against this they migrate downwards to deeper, darker  waters, prhaps some 10s of metres further down.
 
@@ -36,7 +36,7 @@ This daily migration plays an important part in the functioning of the so-alled 
 
 Due to the large number of zooplankton such as krill in the southerh ocean this migration is in fact the **greatest on earth** in terms of total biomass migrating, bigger even than the large mammal migrations on the African savannahs.
 
-A concern is that powerful artificial lights at night, shining down from above, may confuse the zooplankton and disrupt this daily migration pattern. 
+A concern is that powerful artificial lights at night, shining down from above, may confuse the zooplankton and disrupt this daily migration pattern. Give nthe importance of the migration for the global carbon cycle, this is a potentially grave matter.
 
 
 
