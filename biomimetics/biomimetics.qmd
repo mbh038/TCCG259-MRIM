@@ -32,7 +32,7 @@ knitr::include_graphics(here("biomimetics","blasiak_fig_3.png"))
 
 Examples include
 
-### The mirrored eyes of mesopelagic teleost fish
+## The mirrored eyes of mesopelagic teleost fish
 
 No light extends beyond 1000 m into the ocean, but some faint traces of residual daylight persist at depths from 500 to 1000 m
 
@@ -48,20 +48,34 @@ A recent study created advanced models to test the optical performance of *D. lo
 
 Other examples of biomimetic design are found in architecture, where the mirrored eyes of *D. longipes* inspired concepts of energy-saving roof designs by making optimal use of available daylight [@wainwright2014].
 
-### The transparent teeth of the deep-sea dragonfish *Aristostomias stomians*
+## The transparent teeth of the deep-sea dragonfish *Aristostomias stomians*
 
 ```{r}
 #| label: fig-dragonfish-teeth
 #| fig-cap: "The teeth of the dragonfish (*Aristostomias scintillans*) are almost transparent even under bioluminecent light, thus camoflagingthem in the darkness of the deep ocean. Taken from @velasco-hogan2019"
-knitr::include_graphics(here("biomimetics","dragonfish_teeth.png"))
+knitr::include_graphics(here("biomimetics","dragonfish_teeth.jpg"))
 ```
 
 The deep-sea dragonfish (*Aristostomias scintillans*) has virtually transparent teeth, invisible even illuminated from close up by bioluminescent light. This gives them a stealth advantage in the darkness of the deep ocean. The transparency appears to arise from a nanoscale structure that also conributes to its hardness and a sharpness, comparable to the teeth of piranhas and great white sharks. These teeth are a source of inspiration for those seeking to develop transparent ceramics. [@velasco-hogan2019; @ucsandiego2019]
 
-### The morphology of the Mariana snailfish (note the CT scan revealing a small crustacean, the green shape, in the snailfish’s stomach) *Pseudoliparis swirei*
+## Motion under high pressure: The morphology of the Mariana snailfish *Pseudoliparis swirei*
 
-### Antifouling compounds extracted from deep-sea sponges *Geodia barretti*
+The extreme pressures of the deep sea have meant that mechanical joints n the moving part of deep-sea vessels have had to be encased in rigid pressure vessels. However soft creatures that live at these depths seem not to need this. Li and co-workers [-@li2023] studied the snail fish *Pseudoliparis swirei* that inhabits the Mariana trench at depths of over 10000m and inspired by what they found, devised a soft, self-powered robot that could function at these depths.
 
-### The air-filled shell that provides buoyancy to the Ram’s horn squid *Spirula spirula*;
+## Antifouling compounds extracted from deep-sea sponges *Geodia barretti*
 
-### The armored shell of the Scaly-foot snail *Chrysomallon squamiferum*
+Deep-sea sponges such as *Geodia barretti* form siliceous structures that are stiff, strong and highly porous. This has inspired research into possible bone replacement materials that share these properties. These not only need also to be stiff and strong but also to act as scaffolds for other tissues. Other areas of application have been pipe linings and the structural frameworks of large buildings, such as The Gherkin in London's financial district.
+
+## The air-filled shell that provides buoyancy to the Ram’s horn squid *Spirula spirula*;
+
+@fig-spirula-spirula shows the internal shell of Ram's horn squid *Spirula spirula*. By pumping fluid into or out of this shell this species can effect rapid changes in buoyancy. This is needed when rapid changes in depth are required, such as during diel migrations in which this species rises to depths of 100-200 m during he night to feed, then descend to 600-700m at night to hide from predators. In fish, buoyancy is achieved using swim bladders, but these take a long time to equilibrate to ambient pressures and so do not supprt rapid change in depth.
+
+The shape, orientation and buoyancy mechanism of *S. spirula* has been an inspiration in the design of manned deep-sea submersibles such as *Deepsea Challenger* which has been taken to the ocean's deepest point at 10,911m in 2012.
+
+```{r}
+#| label: fig-spirula-spirula
+#| fig-cap: "The internal shell of *Spirula spirula*. By pumping fluid into and out of this shell the buoyancy of the organism can be rapidly changed. This is useful when rapid changes of depth are needed, such as during diel migration. Taken from @velasco-hogan2019"
+knitr::include_graphics(here("biomimetics","Spirula_spirula.jpg"))
+```
+
+
