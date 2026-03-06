@@ -14,13 +14,15 @@ library(tidyverse)
 library(here)
 ```
 
-25,000 species already recorded in [World Register of Deep-Sea Species (WoRDSS)](https://www.marinespecies.org/deepsea/index.php), [@mora2011]. Many more are likely to be found.
+25,000 species have already recorded in [World Register of Deep-Sea Species (WoRDSS)](https://www.marinespecies.org/deepsea/index.php), [@mora2011]. Many more are likely to be found.
 
 Life in the deep sea is specially adapted to thrive in areas characterized by
 
 -   high pressure
 -   absence of sunlight
 -   limited nutrients.
+
+So what can we learn from the adaptations of the many species that live in this hostile environment?
 
 @fig-blasiak_fig3 taken from a comprehensive review paper by Blasiak and co-workers [-@blasiak2022] shows a range of adaptions in the deep sea that can inspire innovations:
 
@@ -74,8 +76,6 @@ The shape, orientation and buoyancy mechanism of *S. spirula* has been an inspir
 
 ```{r}
 #| label: fig-spirula-spirula
-#| fig-cap: "The internal shell of *Spirula spirula*. By pumping fluid into and out of this shell the buoyancy of the organism can be rapidly changed. This is useful when rapid changes of depth are needed, such as during diel migration. Taken from @velasco-hogan2019"
+#| fig-cap: "The internal shell of *Spirula spirula*. By pumping fluid into and out of this shell the buoyancy of the organism can be rapidly changed. This is useful when rapid changes of depth are needed, such as during diel migration. Taken from [@denton1971]"
 knitr::include_graphics(here("biomimetics","Spirula_spirula.jpg"))
 ```
-
-
