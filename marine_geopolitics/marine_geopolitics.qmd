@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Tensions over Greenland
 
-::::: columns
+:::: columns
 ::: {.column width="50%"}
 ![Nuuk, Greenland](nuuk_greenland.jpg)
 :::
@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ::: {.column width="50%"}
 ![Russian nuclear icebreaker](ice_breaker.jpg)
 :::
-:::::
+::::
 
 ## Reduction in Arctic Ice
 
@@ -59,7 +59,7 @@ bering_passages |>
 
 ## Rising tensions around the Arctic
 
-::::: columns
+:::: columns
 ::: {.column width="60%"}
 Several Arctic nations have claims in the Arctic: Canada, Denmark, Norway, Russia and the US.
 
@@ -69,7 +69,7 @@ The UN’s Commission on the Limits of the Continental Shelf (CLCS) makes recomm
 ::: {.column width="40%"}
 ![Continental shelf claims in the Arctic Ocean](Arctic_claims.jpg)
 :::
-:::::
+::::
 
 ## Rare Earth Reserves
 
