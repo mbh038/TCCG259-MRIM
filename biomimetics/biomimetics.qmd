@@ -64,7 +64,7 @@ The deep-sea dragonfish (*Aristostomias scintillans*) has virtually transparent 
 
 The extreme pressures of the deep sea have meant that mechanical joints n the moving part of deep-sea vessels have had to be encased in rigid pressure vessels. However soft creatures that live at these depths seem not to need this. Li and co-workers [-@li2023] studied the snail fish *Pseudoliparis swirei* that inhabits the Mariana trench at depths of over 10000m and inspired by what they found, devised a soft, self-powered robot that could function at these depths.
 
-## Antifouling compounds extracted from deep-sea sponges *Geodia barretti*
+## Structural materials from deep-sea sponges *Geodia barretti*
 
 Deep-sea sponges such as *Geodia barretti* form siliceous structures that are stiff, strong and highly porous. This has inspired research into possible bone replacement materials that share these properties. These not only need also to be stiff and strong but also to act as scaffolds for other tissues. Other areas of application have been pipe linings and the structural frameworks of large buildings, such as The Gherkin in London's financial district.
 
