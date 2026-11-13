@@ -4,7 +4,7 @@ options(digits = 3)
 
 # packages ---------------------------------------------------------------------
 
-suppressMessages(library(readxl))
+# suppressMessages(library(readxl))
 suppressMessages(library(MASS))
 suppressMessages(library(tidymodels))
 suppressMessages(library(gghighlight))
@@ -35,7 +35,7 @@ suppressMessages(library(ggpubr))
 suppressMessages(library(tools))
 suppressMessages(library(unvotes))
 suppressMessages(library(ukbabynames))
-suppressMessages(library(Stat2Data))
+# suppressMessages(library(Stat2Data))
 suppressMessages(library(GGally))
 suppressMessages(library(mosaicData))
 suppressMessages(library(cowplot))

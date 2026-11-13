@@ -1,0 +1,40 @@
+# Mangroves
+
+
+```{r}
+#| include: false
+source(here::here("_common.R"))
+```
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+```{r, echo = FALSE}
+#| label: fig-mangroves-worldwide
+#| fig-cap: "Mangroves are found along coasts throughout the tropical zone"
+
+myimages<-here("mangroves","mangroves_worldwide.jpg")
+knitr::include_graphics(myimages)
+```
+
+They provide numerous ecosystem services, including protection of coastal zones from storm surges, but they are under threat worldwide from various human activities, coastal developments and aquaculture among them.
+
+Suppose we wanted to determine for a specific study area along a tropical coast what changes have come about to the mangroves there between, say, 1990 and 2020? We might ask:
+
+* What area of mangroves has disappeared in that time?
+* What area of newmangroves has appeared in that time?
+* What area of mangroves that was there in 1990 is still there in 2020?
+
+We would like to calculate these areas and also to produce maps to illustrate these areas of appearance, disappearance and stability.
+
+## Global Mangrove Watch
+
+[Global Mangrove Watch](https://www.globalmangrovewatch.org) is a fantastic site that presents the results of analysis of satellite data gathered since 1985.
+
+THe questions posed above can be answered directly on the site by selecting a study area and then using the date tool to select a give year. Alternatively, we can download global data sets in raster or vector form and then attempt to answer the questions using our favourite GIS tool. Here, we will assume that you will use QGIS.
+
+On the Mangrove habitat Extent widget, press. the download button. This gives the option of three download sites. The best to use is JAXA (raster data) because, as we will see, raster data makes the analysis we want to do easier than if we had vector data, and becuase this site permits us to download regional rather than global data sets. This will speed up the analysis.
+

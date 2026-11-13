@@ -29,12 +29,12 @@ bibliography: references.bib
 
 In this presentation we will consider the impact of climate change on the marine environment. In particular, we will discuss
 
--   Sea surface temperature rise
--   Sea level rise
--   Acidification
--   Local changes in salinity
--   Geopolitical issues
--   Change in frequency and severity of extreme events
+- Sea surface temperature rise
+- Sea level rise
+- Acidification
+- Local changes in salinity
+- Geopolitical issues
+- Change in frequency and severity of extreme events
 
 ## Ocean Acidification
 
